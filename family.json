@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "firstName": "Jian Zhang",
+    "lastName": "Chen",
+    "pic": "father.jpg",
+    "managerId": 0,
+    "title": "Father",
+    "department": "Parents",
+    "cellPhone": "0932-954-868",
+    "email": "a0932954868@gmail.com",
+    "city": "Taichung, Taiwan",
+    "picture": "father.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "Yan Ling",
+    "lastName": "Jiang",
+    "pic": "mother.jpg",
+    "managerId": 0,
+    "title": "Mother",
+    "department": "Parents",
+    "cellPhone": "0955-954-868",
+    "email": "a0955954868@gmail.com",
+    "city": "Taichung, Taiwan",
+    "picture": "mother.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "Yun Ting",
+    "lastName": "Chen",
+    "pic": "me.jpg",
+    "managerId": 1,
+    "title": "Me",
+    "department": "Me",
+    "cellPhone": "0983-753-765",
+    "email": "qq71307@gmail.com",
+    "city": "Taichung, Taiwan",
+    "picture": "me.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "You Ru",
+    "lastName": "Chen",
+    "pic": "sister.jpg",
+    "managerId": 2,
+    "title": "Sister",
+    "department": "Sister",
+    "cellPhone": "0978-159-798",
+    "email": "yuluchen1127@gmail.com",
+    "city": "Taichung, Taiwan",
+    "picture": "sister.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Si You",
+    "lastName": "Chen",
+    "pic": "brother.jpg",
+    "managerId": 3,
+    "title": "Brother",
+    "department": "Brother",
+    "cellPhone": "0905-110-599",
+    "email": "happy102720@gmail.com",
+    "city": "Taichung, Taiwan",
+    "picture": "brother.jpg"
+  }
+]
